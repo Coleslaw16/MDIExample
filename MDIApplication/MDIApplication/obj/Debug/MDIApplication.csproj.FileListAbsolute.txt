@@ -1,0 +1,10 @@
+c:\users\john\documents\visual studio 2013\Projects\MDIApplication\MDIApplication\bin\Debug\MDIApplication.exe.config
+c:\users\john\documents\visual studio 2013\Projects\MDIApplication\MDIApplication\bin\Debug\MDIApplication.exe
+c:\users\john\documents\visual studio 2013\Projects\MDIApplication\MDIApplication\bin\Debug\MDIApplication.pdb
+c:\users\john\documents\visual studio 2013\Projects\MDIApplication\MDIApplication\obj\Debug\MDIApplication.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2013\Projects\MDIApplication\MDIApplication\obj\Debug\MDIApplication.ImageHolder.resources
+c:\users\john\documents\visual studio 2013\Projects\MDIApplication\MDIApplication\obj\Debug\MDIApplication.MDIS.resources
+c:\users\john\documents\visual studio 2013\Projects\MDIApplication\MDIApplication\obj\Debug\MDIApplication.Properties.Resources.resources
+c:\users\john\documents\visual studio 2013\Projects\MDIApplication\MDIApplication\obj\Debug\MDIApplication.csproj.GenerateResource.Cache
+c:\users\john\documents\visual studio 2013\Projects\MDIApplication\MDIApplication\obj\Debug\MDIApplication.exe
+c:\users\john\documents\visual studio 2013\Projects\MDIApplication\MDIApplication\obj\Debug\MDIApplication.pdb
